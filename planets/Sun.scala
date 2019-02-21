@@ -5,6 +5,8 @@
 trait Sun {
     var state: Burning;
     var IsHot: 1;
+    var SpreadsLight: 1;
 }
 
 //TODO: Fix the damn thing, duh!
+//TODO: Find out why some AI don't detect "light"
